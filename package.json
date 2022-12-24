@@ -1,0 +1,29 @@
+{
+  "name": "insurebook",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@react-native-community/datetimepicker": "6.5.2",
+    "expo": "~47.0.9",
+    "expo-camera": "~13.1.0",
+    "expo-image-picker": "~14.0.2",
+    "expo-status-bar": "~1.4.2",
+    "react": "18.1.0",
+    "react-native": "0.70.5",
+    "react-native-datepicker": "^1.7.2",
+    "react-native-modal": "^13.0.1",
+    "react-native-modal-datetime-picker": "^14.0.1",
+    "react-native-outline-input": "^1.0.8",
+    "react-native-select-dropdown": "^3.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9"
+  },
+  "private": true
+}
